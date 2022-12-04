@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<ModMetaData>
+  
+		<name>RimSol</name>
+  
+		<author>RS-Team</author>
+		
+		<packageId>RimSol.ID</packageId>
+
+		<description>Work in progress mod featuring fluffy cuddlers called Absols.</description>
+		
+		<supportedVersions>
+		<li>1.4</li>
+		</supportedVersions>
+
+	    <modDependencies/>
+	    <loadAfter/>
+
+    </ModMetaData>
