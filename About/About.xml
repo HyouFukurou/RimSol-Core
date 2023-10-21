@@ -2,13 +2,13 @@
 
 	<ModMetaData>
   
-		<name>RimSol</name>
+		<name>Solence in Tradition</name>
   
-		<author>RS-Team</author>
+		<author>SiT-Team</author>
 		
-		<packageId>RimSol.ID</packageId>
+		<packageId>SiT.ID</packageId>
 
-		<description>Work in progress mod featuring fluffy cuddlers called Absols.</description>
+		<description>Work in progress mod featuring fluffy kemono specimen.</description>
 		
 		<supportedVersions>
 		<li>1.4</li>
