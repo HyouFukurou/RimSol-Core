@@ -1,2 +1,2 @@
 # RimSol-Core
-A rimworld mod adding floofy cuddlers called Absols as an playable xenotype together with their faction.
+A RimWorld mod featuring a large kemono faction called the Solian Gestalt.
